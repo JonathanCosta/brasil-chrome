@@ -1,6 +1,6 @@
 {
-	"name": "renatoargh",
-	"description": "renatoargh chrome dev tools",
+	"name": "Brasil Utils",
+	"description": "Ferramentas para desenvolvedores brasileiros",
 	"version": "1",
 	"content_scripts": [{
 		"matches": ["<all_urls>"],

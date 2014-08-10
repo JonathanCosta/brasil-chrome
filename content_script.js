@@ -1,6 +1,6 @@
 var clickedEl = null;
 document.addEventListener("mousedown", function(event){
-    if(event.button == 2) { 
+    if(event.button == 2) {
         clickedEl = event.target;
     }
 }, true);
